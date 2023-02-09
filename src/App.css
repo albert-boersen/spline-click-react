@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+body {
+  height: 100vh;
+}
+#root,
+.container {
+  height: 100%;
+}
