@@ -15,6 +15,14 @@ export default function App() {
         console.log('I have been clicked!');
         toast('De buik is aangeklikt');
         break;
+      case 'rightupperlegback':
+        console.log('I have been clicked!');
+        toast('het rechter achter boven been (of hoe dat ding ook heet) is aangeklikt');
+        break;
+      case 'rightcalf':
+        console.log('I have been clicked!');
+        toast('De rechterkuit is aangeklikt');
+        break;
       default:
         break;
     }
